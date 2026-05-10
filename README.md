@@ -28,4 +28,4 @@ No JavaScript. No frameworks. Just pure HTML + CSS.
 
 ---
 
-## 📁 Project Structure
+
